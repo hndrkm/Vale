@@ -1,0 +1,2 @@
+# Val
+fotoEncode64
